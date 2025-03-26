@@ -1,0 +1,3 @@
+import comp from "/home/mahmoud/Downloads/obaaa8-website/docs/.vuepress/.temp/pages/index.html.vue"
+const data = JSON.parse("{\"path\":\"/\",\"title\":\"Hello VuePress\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1742984015000,\"contributors\":[{\"name\":\"obaaa8\",\"username\":\"obaaa8\",\"email\":\"obaaa8@gmail.com\",\"commits\":1,\"url\":\"https://github.com/obaaa8\"}],\"changelog\":[{\"hash\":\"4d090f2c1bdc5b527b2022b089d7015648faa09c\",\"time\":1742984015000,\"email\":\"obaaa8@gmail.com\",\"author\":\"obaaa8\",\"message\":\"test\"}]},\"filePathRelative\":\"README.md\"}")
+export { comp, data }
